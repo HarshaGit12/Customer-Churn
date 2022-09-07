@@ -1,7 +1,7 @@
 # Customer Churn - Telecom
 ## Project Context:
 ### The cost of acquiring a new customer is far more than that for retaining the existing one. 
-### Therefore, it is imperative for the telecom industries to use advanced analytics to understand consumer behavior and in-turn predict the association of the customers as whether or not they will leave the company.
+### In this project, we try to predict the association of the customers as whether or not they will leave the company using various attributes related to the telecom services.
 ## Project Overview:
 ### 1. Exploratory Data Analysis is done and Feature Importance is also shown
 ### 2. Three Classification Algorithms - Logistic Regression, Random Forest and XGBoost Classifier are used to model the data
